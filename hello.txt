@@ -17,11 +17,11 @@ hello brother!
 hello brother!
 	My name is qianmosha!
 hello brother!
-	My name is qianmosha! hot-fix test01
-hello brother!
 	My name is qianmosha!
 hello brother!
 	My name is qianmosha!
 hello brother!
- 	My name is qianmosha! hot-fix test
-	我在hot-fix分支上修改了这个文件
+	My name is qianmosha!
+hello brother!
+ 	My name is qianmosha!
+	hahahahahahaha10101010101010101
